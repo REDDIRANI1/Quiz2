@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\rayad\Downloads\fastapi_employee_project_boilerplate\employee_app\venv"
+VIRTUAL_ENV="C:\Users\rayad\Downloads\fastapi_employee_project\employee_app\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
